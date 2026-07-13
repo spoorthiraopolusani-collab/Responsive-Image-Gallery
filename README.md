@@ -77,7 +77,7 @@ This project helps in understanding:
 
 ## 👩‍💻 Author
 
-**Aashritha B**
+spoorthi
 
 ---
 
